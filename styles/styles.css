@@ -701,6 +701,13 @@ button#cv {
   overflow: auto;
 }
 
+#projects ul.title {
+  margin: 20px 30px;
+  font-size: 13px;
+  text-align: left;
+  overflow: auto;
+}
+
 #projects .desc li:before {
   content: "●";
   padding-right: 10px;
