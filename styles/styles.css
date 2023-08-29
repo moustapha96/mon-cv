@@ -644,6 +644,10 @@ button#cv {
   background-image: url("../images/bcut.png");
 }
 
+#gestioncollecte .image-box {
+  background-image: url("../images/bcut.png");
+}
+
 .overlay {
   position: absolute;
   bottom: 0;
